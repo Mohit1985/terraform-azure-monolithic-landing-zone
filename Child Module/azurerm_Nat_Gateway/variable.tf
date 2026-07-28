@@ -1,0 +1,3 @@
+variable "natgateways" {
+  type = any
+}
