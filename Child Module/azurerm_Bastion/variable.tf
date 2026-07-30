@@ -1,3 +1,0 @@
-variable "bastions" {
-  type = any
-}

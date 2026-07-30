@@ -1,3 +1,0 @@
-variable "nsgs" {
-  type = any
-}
