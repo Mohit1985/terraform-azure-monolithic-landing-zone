@@ -4,6 +4,11 @@ rgs = {
     location = "centralindia"
   }
 
+  rg2 = {
+    name     = "mango-preprod"
+    location = "centralindia"
+  }
+
 }
 vnet = {
   vnet1 = {
